@@ -6,6 +6,7 @@
         <option value="$PROJECT_DIR$/DependencyInjection/pom.xml" />
         <option value="$PROJECT_DIR$/DependencyInjectionXMLConfig/pom.xml" />
         <option value="$PROJECT_DIR$/DependencyInjectionJavaConfig/pom.xml" />
+        <option value="$PROJECT_DIR$/ComponentsAndAutowiring/pom.xml" />
       </list>
     </option>
   </component>

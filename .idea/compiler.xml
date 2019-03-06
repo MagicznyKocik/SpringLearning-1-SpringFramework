@@ -6,13 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="ComponentsAndAutowiring" />
         <module name="DependencyInjection" />
         <module name="DependencyInjectionJavaConfig" />
         <module name="DependencyInjectionXMLConfig" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="11">
-      <module name="DependencyInjection" target="11" />
+      <module name="ComponentsAndAutowiring" target="11" />
+      <module name="DependencyInjection" target="8" />
       <module name="DependencyInjectionJavaConfig" target="11" />
       <module name="DependencyInjectionXMLConfig" target="11" />
     </bytecodeTargetLevel>
