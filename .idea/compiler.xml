@@ -13,6 +13,7 @@
         <module name="DependencyInjectionJavaConfig" />
         <module name="DependencyInjectionViaConstructorAndSetter" />
         <module name="DependencyInjectionXMLConfig" />
+        <module name="SingletonAndPrototypeScopes" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="11">
@@ -24,6 +25,7 @@
       <module name="DependencyInjectionJavaConfig" target="11" />
       <module name="DependencyInjectionViaConstructorAndSetter" target="11" />
       <module name="DependencyInjectionXMLConfig" target="11" />
+      <module name="SingletonAndPrototypeScopes" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
