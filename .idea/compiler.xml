@@ -13,6 +13,7 @@
         <module name="DependencyInjectionJavaConfig" />
         <module name="DependencyInjectionViaConstructorAndSetter" />
         <module name="DependencyInjectionXMLConfig" />
+        <module name="Profiles" />
         <module name="SingletonAndPrototypeScopes" />
       </profile>
     </annotationProcessing>
@@ -20,11 +21,11 @@
       <module name="BeanAnnotationConfigAndPropertiesFile" target="11" />
       <module name="ComponentsAndAutowiring" target="11" />
       <module name="ConflictManagingWithQualifiers" target="11" />
-      <module name="DependencyInjecitonViaConstructorAndSetter" target="11" />
       <module name="DependencyInjection" target="8" />
       <module name="DependencyInjectionJavaConfig" target="11" />
       <module name="DependencyInjectionViaConstructorAndSetter" target="11" />
       <module name="DependencyInjectionXMLConfig" target="11" />
+      <module name="Profiles" target="11" />
       <module name="SingletonAndPrototypeScopes" target="11" />
     </bytecodeTargetLevel>
   </component>
