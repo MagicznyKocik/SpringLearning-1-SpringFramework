@@ -7,7 +7,15 @@
         <option value="$PROJECT_DIR$/DependencyInjectionXMLConfig/pom.xml" />
         <option value="$PROJECT_DIR$/DependencyInjectionJavaConfig/pom.xml" />
         <option value="$PROJECT_DIR$/ComponentsAndAutowiring/pom.xml" />
+        <option value="$PROJECT_DIR$/DependencyInjecitonViaConstructorSetterField/pom.xml" />
+        <option value="$PROJECT_DIR$/DependencyInjectionViaConstructorAndSetter/pom.xml" />
+        <option value="$PROJECT_DIR$/ConflictManagingWithQualifiers/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/DependencyInjecitonViaConstructorAndSetter/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="false" project-jdk-name="11" project-jdk-type="JavaSDK">

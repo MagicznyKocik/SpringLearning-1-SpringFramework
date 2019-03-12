@@ -3,8 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ComponentsAndAutowiring//ComponentsAndAutowiring.iml" filepath="$PROJECT_DIR$/ComponentsAndAutowiring//ComponentsAndAutowiring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConflictManagingWithQualifiers/ConflictManagingWithQualifiers.iml" filepath="$PROJECT_DIR$/ConflictManagingWithQualifiers/ConflictManagingWithQualifiers.iml" />
       <module fileurl="file://$PROJECT_DIR$/DependencyInjection/DependencyInjection.iml" filepath="$PROJECT_DIR$/DependencyInjection/DependencyInjection.iml" />
       <module fileurl="file://$PROJECT_DIR$/DependencyInjectionJavaConfig//DependencyInjectionJavaConfig.iml" filepath="$PROJECT_DIR$/DependencyInjectionJavaConfig//DependencyInjectionJavaConfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DependencyInjectionViaConstructorAndSetter/DependencyInjectionViaConstructorAndSetter.iml" filepath="$PROJECT_DIR$/DependencyInjectionViaConstructorAndSetter/DependencyInjectionViaConstructorAndSetter.iml" />
       <module fileurl="file://$PROJECT_DIR$/DependencyInjectionXMLConfig//DependencyInjectionXMLConfig.iml" filepath="$PROJECT_DIR$/DependencyInjectionXMLConfig//DependencyInjectionXMLConfig.iml" />
     </modules>
   </component>

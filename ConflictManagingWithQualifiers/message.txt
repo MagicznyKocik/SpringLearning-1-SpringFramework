@@ -1,0 +1,6 @@
+Message from file!
+Second line!
+Third line!
+and eve fourth line!
+The fifth line is the last!
+I was jocking! Its the sixth line!
