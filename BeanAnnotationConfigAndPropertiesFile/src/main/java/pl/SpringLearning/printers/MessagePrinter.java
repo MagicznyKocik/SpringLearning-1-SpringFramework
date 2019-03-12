@@ -19,7 +19,7 @@ public class MessagePrinter {
     }
 
     @Autowired
-    public MessagePrinter(@Producer(type = Producer.ProducerType.SIMPLE) MessageProducer messageProducer){
+    public MessagePrinter(@Producer(type = Producer.ProducerType.FILE) MessageProducer messageProducer){
         this.producer = messageProducer;
     }
 
