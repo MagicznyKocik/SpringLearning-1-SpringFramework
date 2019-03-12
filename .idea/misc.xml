@@ -13,6 +13,7 @@
         <option value="$PROJECT_DIR$/BeanAnnotationConfigAndPropertiesFile/pom.xml" />
         <option value="$PROJECT_DIR$/SingletonAndPrototypeScopes/pom.xml" />
         <option value="$PROJECT_DIR$/Profiles/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-dependency-injection/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

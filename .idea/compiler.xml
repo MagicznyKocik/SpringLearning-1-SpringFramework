@@ -15,6 +15,7 @@
         <module name="DependencyInjectionXMLConfig" />
         <module name="Profiles" />
         <module name="SingletonAndPrototypeScopes" />
+        <module name="spring-boot-dependency-injection" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="11">
@@ -27,6 +28,12 @@
       <module name="DependencyInjectionXMLConfig" target="11" />
       <module name="Profiles" target="11" />
       <module name="SingletonAndPrototypeScopes" target="11" />
+      <module name="spring-boot-dependency-injection" target="11" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="spring-boot-dependency-injection" options="-parameters" />
+    </option>
   </component>
 </project>

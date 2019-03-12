@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/DependencyInjectionXMLConfig//DependencyInjectionXMLConfig.iml" filepath="$PROJECT_DIR$/DependencyInjectionXMLConfig//DependencyInjectionXMLConfig.iml" />
       <module fileurl="file://$PROJECT_DIR$/Profiles/Profiles.iml" filepath="$PROJECT_DIR$/Profiles/Profiles.iml" />
       <module fileurl="file://$PROJECT_DIR$/SingletonAndPrototypeScopes/SingletonAndPrototypeScopes.iml" filepath="$PROJECT_DIR$/SingletonAndPrototypeScopes/SingletonAndPrototypeScopes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-dependency-injection//spring-boot-dependency-injection.iml" filepath="$PROJECT_DIR$/spring-boot-dependency-injection//spring-boot-dependency-injection.iml" />
     </modules>
   </component>
 </project>
