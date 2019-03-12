@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="BeanAnnotationConfigAndPropertiesFile" />
         <module name="ComponentsAndAutowiring" />
         <module name="ConflictManagingWithQualifiers" />
         <module name="DependencyInjection" />
@@ -15,6 +16,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="11">
+      <module name="BeanAnnotationConfigAndPropertiesFile" target="11" />
       <module name="ComponentsAndAutowiring" target="11" />
       <module name="ConflictManagingWithQualifiers" target="11" />
       <module name="DependencyInjecitonViaConstructorAndSetter" target="11" />

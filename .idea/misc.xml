@@ -10,6 +10,7 @@
         <option value="$PROJECT_DIR$/DependencyInjecitonViaConstructorSetterField/pom.xml" />
         <option value="$PROJECT_DIR$/DependencyInjectionViaConstructorAndSetter/pom.xml" />
         <option value="$PROJECT_DIR$/ConflictManagingWithQualifiers/pom.xml" />
+        <option value="$PROJECT_DIR$/BeanAnnotationConfigAndPropertiesFile/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

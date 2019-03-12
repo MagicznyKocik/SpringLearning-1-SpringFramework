@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BeanAnnotationConfigAndPropertiesFile/BeanAnnotationConfigAndPropertiesFile.iml" filepath="$PROJECT_DIR$/BeanAnnotationConfigAndPropertiesFile/BeanAnnotationConfigAndPropertiesFile.iml" />
       <module fileurl="file://$PROJECT_DIR$/ComponentsAndAutowiring//ComponentsAndAutowiring.iml" filepath="$PROJECT_DIR$/ComponentsAndAutowiring//ComponentsAndAutowiring.iml" />
       <module fileurl="file://$PROJECT_DIR$/ConflictManagingWithQualifiers/ConflictManagingWithQualifiers.iml" filepath="$PROJECT_DIR$/ConflictManagingWithQualifiers/ConflictManagingWithQualifiers.iml" />
       <module fileurl="file://$PROJECT_DIR$/DependencyInjection/DependencyInjection.iml" filepath="$PROJECT_DIR$/DependencyInjection/DependencyInjection.iml" />
