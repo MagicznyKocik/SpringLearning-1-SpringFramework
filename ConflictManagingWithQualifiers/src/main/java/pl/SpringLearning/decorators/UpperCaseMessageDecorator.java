@@ -6,7 +6,7 @@ import org.springframework.stereotype.Component;
 import pl.SpringLearning.decorators.MessageDecorator;
 
 @Component
-@Primary
+@Decorator(type = Decorator.DecoratorType.UPPER)
 public class UpperCaseMessageDecorator implements MessageDecorator {
 
     @Override

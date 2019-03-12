@@ -6,7 +6,7 @@ import org.springframework.stereotype.Component;
 import pl.SpringLearning.producers.MessageProducer;
 
 @Component
-@Qualifier("simpleMessageProducer")
+@Producer(type = Producer.ProducerType.SIMPLE)
 public class SimpleMessageProducer implements MessageProducer {
 
 

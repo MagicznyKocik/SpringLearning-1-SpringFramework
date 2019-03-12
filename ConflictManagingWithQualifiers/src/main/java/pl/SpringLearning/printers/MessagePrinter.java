@@ -2,11 +2,11 @@ package pl.SpringLearning.printers;
 
 
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Component;
+import pl.SpringLearning.decorators.Decorator;
 import pl.SpringLearning.decorators.MessageDecorator;
-import pl.SpringLearning.producers.FileMessage;
 import pl.SpringLearning.producers.MessageProducer;
+import pl.SpringLearning.producers.Producer;
 
 @Component(value = "myMessagePrinter")
 public class MessagePrinter {
@@ -19,7 +19,7 @@ public class MessagePrinter {
     }
 
     @Autowired
-    public MessagePrinter(@FileMessage MessageProducer messageProducer){
+    public MessagePrinter(@Producer(type = Producer.ProducerType.FILE) MessageProducer messageProducer){
         this.producer = messageProducer;
     }
 
@@ -29,6 +29,7 @@ public class MessagePrinter {
     }
 
     @Autowired(required = false)
+    @Decorator(type = Decorator.DecoratorType.LOWER)
     public void setDecorator(MessageDecorator decorator) {
         this.decorator = decorator;
     }
